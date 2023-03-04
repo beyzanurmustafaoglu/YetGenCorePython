@@ -10,3 +10,18 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 - Python Nedir?
 - Kodlama Nedir?
 - Visual Studio Code ve Python Kurulumu
+
+# 2. Haftada Yapılan Çalışmalar
+- Print fonksiyonu nedir, ne işe yarar ve parametreleri nelerdir?
+- Yorum satırları
+- Değişkenler ve tanımlama kuralları
+- Type fonksiyonu
+- Sayı veri türleri ve matematiksel işlemler
+- String, boolean vb. veri türleri
+- Input fonksiyonu
+
+# 3. Haftada Yapılan Çalışmalar
+- Karşılaştırma operatörleri
+- Mantıksal operatörler
+- Karar yapıları
+- Döngüler
