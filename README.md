@@ -25,3 +25,10 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 - Mantıksal operatörler
 - Karar yapıları
 - Döngüler
+
+# 4. Haftada Yapılan Çalışmalar
+- Listeler (liste metodları ve liste toplama)
+- Tuple (demet)
+- Set
+- Dictionary
+- String metodları
