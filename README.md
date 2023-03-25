@@ -32,6 +32,7 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 - Set
 - Dictionary
 - String metodları
+
 # 5. Haftada Yapılan Çalışmalar
 - List Comprehension
 - Fonksiyon Yapıları
@@ -39,3 +40,8 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 - *args, **kwarks ve passt deyimi
 - Global ve Yerel Değişkenler
 - Lambda
+
+# 6. Haftada Yapılan Çalışmalar
+- Modüller
+- Hata Yönetimi
+- Gömülü Fonksiyonlar
