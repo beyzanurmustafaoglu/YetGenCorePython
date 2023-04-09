@@ -45,3 +45,8 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 - Modüller
 - Hata Yönetimi
 - Gömülü Fonksiyonlar
+# 7. Haftada Yapılan Çalışmalar
+- Tekrar
+# 8. Haftada Yapılan Çalışmalar
+- Dosya İşlemleri
+- Class Yapıları
