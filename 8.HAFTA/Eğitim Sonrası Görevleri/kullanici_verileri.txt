@@ -1,1 +1,1 @@
-ali acar: {'Yas': 23, 'Boy': 180.0, 'Kilo': 90.0, 'VKI': 0.002777777777777778, 'Sinif': 'Zayif'}
+ali acar: {'Yas': 23, 'Boy': 180.0, 'Kilo': 99.0, 'VKI': 0.0030555555555555557, 'Sinif': 'Zayif'}
