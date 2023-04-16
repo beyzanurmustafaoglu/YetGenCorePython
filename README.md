@@ -50,3 +50,6 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 # 8. Haftada Yapılan Çalışmalar
 - Dosya İşlemleri
 - Class Yapıları
+# 9. Haftada Yapılan Çalışmalar
+- Method kullanımmı
+- Inheritance
