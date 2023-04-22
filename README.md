@@ -53,3 +53,5 @@ Bu repoda Yetgen Core Python eğitim programı boyunca yapacağım ödevleri ve 
 # 9. Haftada Yapılan Çalışmalar
 - Method kullanımmı
 - Inheritance
+# 10. Haftada Yapılan Çalışmalar
+- Numpy
